@@ -1,0 +1,60 @@
+.Service-conatiner{
+    background-color: blueviolet;
+    min-height: 100svh;
+    display: flex;
+    justify-content: center;
+    align-items: flex-start;
+    gap:20px;
+    flex-wrap: wrap;
+
+}
+.Service-conatiner h3{
+    margin-top: 100px;
+    margin-right: 1100px;
+    color: aliceblue;
+}
+.Service-conatiner h1{
+    
+    margin-right: 1050px;
+}
+.Service-conatiner .card{
+    display: flex;
+    justify-content: center;
+    align-items: flex-start;
+    gap: 25px;
+    flex-wrap: wrap;
+    margin-bottom: 200px;
+
+}
+.Service-conatiner .card1{
+
+    background-color: black;
+    width: 400px;
+    height: 180px;
+    padding-top: 30px;
+    padding-bottom: 30px;
+    margin-top: 0px;
+   
+
+}
+.Service-conatiner .card2{
+
+    background-color: rgb(190, 32, 32);
+    width: 400px;
+    height: 180px;
+    padding-top: 30px;
+    padding-bottom: 30px;
+    margin-top: 0px;   
+    
+}
+.Service-conatiner .card3{
+
+    background-color: rgb(68, 28, 179);
+    width: 400px;
+    height: 180px;
+    padding-top: 30px;
+    padding-bottom: 30px;
+    margin-top: 0px;
+   
+   
+} 

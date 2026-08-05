@@ -1,0 +1,37 @@
+.page{
+    background-color: rgb(11, 11, 114);
+    height: 600px;
+    padding-top: 100px;
+
+}
+
+.page .loginpage{
+    background-color: rgb(3, 3, 14);
+    
+    height: 500px;
+    width: 600px;
+    border: 2px solid rgb(13, 12, 12);
+    margin-left: 500px;
+
+}
+.page .loginpage .note{
+   border-radius: 5px;
+    width: 550px;
+    height: 30px;
+    /* padding: 2px;  */
+}
+.page .loginpage .button {
+    border-radius: 5px;
+    margin-top: 20px;
+   
+    width: 550px;
+    height: 30px;
+    background-color: blueviolet;
+    justify-content: center;
+    
+}
+.page .Saved p {
+    margin-top: 10px;
+    margin-right: 400px;
+
+}
